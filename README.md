@@ -31,4 +31,4 @@ library(praise)
 
 ## License
 
-MIT © [Gabor Csardi](https://github.com/gaborcsardi).
+MIT © [Gabor Csardi](https://github.com/gaborcsardi), [Sindre Sorhus](http://sindresorhus.com)

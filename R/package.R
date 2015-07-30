@@ -1,8 +1,10 @@
 
-#' Praise Users
+#' Words and phrases to be used as positive adjectives
 #'
-#' TODO
+#' @details
+#' Most of them are from \url{https://github.com/sindresorhus/superb}.
 #'
-#' @docType package
-#' @name praise
-NULL
+#' @format
+#' A character vector of words and expressions.
+
+"superb"
