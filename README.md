@@ -1,4 +1,6 @@
 
+
+
 # praise
 
 > Praise Users
@@ -10,9 +12,11 @@
 [![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/praise)](http://www.r-pkg.org/pkg/praise)
 
 
-TODO
+Build friendly R packages that praise their users if they have
+done something good, or they just need it to feel better.
 
 ## Installation
+
 
 ```r
 devtools::install_github("gaborcsardi/praise")
@@ -20,10 +24,11 @@ devtools::install_github("gaborcsardi/praise")
 
 ## Usage
 
+
 ```r
 library(praise)
 ```
 
 ## License
 
-MIT + file LICENSE © [Gabor Csardi](https://github.com/gaborcsardi).
+MIT © [Gabor Csardi](https://github.com/gaborcsardi).
