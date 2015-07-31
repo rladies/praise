@@ -1,5 +1,5 @@
 
-all: README.md
+all: inst/README.md
 
-README.md: README.Rmd
+inst/README.md: inst/README.Rmd
 	Rscript -e "library(knitr); knit('$<', output = '$@', quiet = TRUE)"

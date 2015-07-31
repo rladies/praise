@@ -31,6 +31,26 @@ devtools::install_github("gaborcsardi/praise")
 
 ```{r}
 library(praise)
+praise()
+```
+
+You can supply a template, and `praise()` fills in random words of the specified
+part of speech:
+
+```{r}
+praise("${EXCLAMATION}! You have done this ${adverb_manner}!")
+```
+
+Note that capitalization in the inserted words will be the same as in the template:
+
+```{r}
+praise("${Exclamation}! ${EXCLAMATION}!-${EXCLAMATION}! This is just ${adjective}!")
+```
+
+Currently supported parts of speech:
+
+```{r}
+names(praise_parts)
 ```
 
 ## License
