@@ -10,5 +10,12 @@ License: MIT + file LICENSE
 LazyData: true
 URL: https://github.com/gaborcsardi/praise
 BugReports: https://github.com/gaborcsardi/praise/issues
-Suggests: 
+Suggests:
     testthat
+Collate:
+    'adjective.R'
+    'adverb.R'
+    'exclamation.R'
+    'verb.R'
+    'rpackage.R'
+    'package.R'

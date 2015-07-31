@@ -1,0 +1,40 @@
+
+created <- c(
+  "assembled",
+  "brewed",
+  "built",
+  "created",
+  "composed",
+  "constructed",
+  "designed",
+  "devised",
+  "forged",
+  "formed",
+  "initiated",
+  "invented",
+  "made",
+  "organized",
+  "planned",
+  "prepared",
+  "set up"
+)
+
+creating <- c(
+  "assembling",
+  "brewing",
+  "building",
+  "creating",
+  "composing",
+  "constructing",
+  "designing",
+  "devising",
+  "forging",
+  "forming",
+  "initiating",
+  "inventing",
+  "making",
+  "organizing",
+  "planning",
+  "preparin",
+  "setting up"
+)
