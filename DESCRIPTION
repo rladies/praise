@@ -1,7 +1,7 @@
 Package: praise
 Title: Praise Users
 Version: 1.0.0
-Author: Gabor Csardi
+Author: Gabor Csardi, Sindre Sorhus
 Maintainer: Gabor Csardi <csardi.gabor@gmail.com>
 Description: Build friendly R packages that
     praise their users if they have done something
