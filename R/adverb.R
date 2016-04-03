@@ -15,6 +15,7 @@ adverb_manner <- c(
   "doubtfully",
   "eagerly",
   "easily",
+  "effectively",
   "elegantly",
   "enormously",
   "enthusiastically",
