@@ -102,6 +102,7 @@ adjective <- c(
   "splendid",
   "stellar",
   "striking",
+  "stonking",
   "stunning",
   "stupendous",
   "stylish",
