@@ -13,7 +13,7 @@ adjective <- c(
   "best",
   "breathtaking",
   "brilliant",
-  "callypygian",
+  "callipygian",
   "charming",
   "chic",
   "classy",
