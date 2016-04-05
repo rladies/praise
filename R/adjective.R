@@ -1,8 +1,8 @@
 
 adjective <- c(
   ":)",
-  ":)",
   ":-D",
+  ";)",
   "(-:",
   "ace",
   "adorable",
