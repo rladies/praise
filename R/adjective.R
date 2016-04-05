@@ -70,6 +70,7 @@ adjective <- c(
   "majestic",
   "marvelous",
   "mathematical",
+  "metal",
   "mind-blowing",
   "neat",
   "outstanding",
