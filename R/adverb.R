@@ -31,7 +31,6 @@ adverb_manner <- c(
   "gracefully",
   "happily",
   "healthily",
-  "horribly",
   "honestly",
   "joyously",
   "justly",
