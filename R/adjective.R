@@ -7,6 +7,7 @@ adjective <- c(
   "astounding",
   "awe-inspiring",
   "awesome",
+  ":)",
   "badass",
   "beautiful",
   "bedazzling",
