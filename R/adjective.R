@@ -8,6 +8,8 @@ adjective <- c(
   "awe-inspiring",
   "awesome",
   ":)",
+  ":-D",
+  "(-:",
   "badass",
   "beautiful",
   "bedazzling",
