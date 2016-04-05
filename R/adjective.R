@@ -111,6 +111,7 @@ adjective <- c(
   "super",
   "super-duper",
   "super-excellent",
+  "super-good",
   "superb",
   "superior",
   "supreme",
