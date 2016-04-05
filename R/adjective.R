@@ -33,7 +33,6 @@ adjective <- c(
   "exceptional",
   "exquisite",
   "extraordinary",
-  "fabulous",
   "fantastic",
   "fantabulous",
   "fascinating",
