@@ -66,6 +66,7 @@ adjective <- c(
   "legendary",
   "lovely",
   "luminous",
+  "magic"
   "magnificent",
   "majestic",
   "marvelous",
