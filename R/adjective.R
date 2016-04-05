@@ -88,6 +88,7 @@ adjective <- c(
   "primo",
   "proper",
   "rad",
+  "rockandroll",
   "remarkable",
   "riveting",
   "sensational",
