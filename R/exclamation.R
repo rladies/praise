@@ -1,5 +1,7 @@
 
 exclamation <- c(
+  ":)",
+  ":D",
   "ah",
   "aha",
   "ahh",
