@@ -125,5 +125,6 @@ adjective <- c(
   "wicked",
   "wonderful",
   "wondrous",
-  "world-class"
+  "world-class",
+  "dench"
 )
