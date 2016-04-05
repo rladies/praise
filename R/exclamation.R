@@ -26,6 +26,7 @@ exclamation <- c(
   "mmm",
   "oh",
   "ole",
+  "ooh",
   "uh-hu",
   "wee",
   "whee",
