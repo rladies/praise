@@ -3,7 +3,7 @@ exclamation <- c(
   "ah",
   "aha",
   "ahh",
-  "ahhh",
+  
   "aw",
   "aww",
   "awww",
