@@ -87,6 +87,7 @@ adjective <- c(
   "mind-blowing",
   "nice",
   "neat",
+  "nice",
   "outstanding",
   "particular",
   "peachy",
