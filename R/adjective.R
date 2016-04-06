@@ -1,6 +1,9 @@
 
 adjective <- c(
   ":)",
+  ":)",
+  ":-D",
+  "(-:",
   "ace",
   "adorable",
   "amazing",
@@ -8,9 +11,7 @@ adjective <- c(
   "astounding",
   "awe-inspiring",
   "awesome",
-  ":)",
-  ":-D",
-  "(-:",
+  "baboosh",
   "badass",
   "beautiful",
   "bedazzling",
@@ -70,6 +71,7 @@ adjective <- c(
   "impressive",
   "incredible",
   "irresistible",
+  "just wow",
   "kickass",
   "kryptonian",
   "laudable",
