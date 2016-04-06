@@ -1,5 +1,4 @@
 
-
 adjective <- c(
   "ace",
   "adorable",
