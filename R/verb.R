@@ -8,6 +8,7 @@ created <- c(
   "constructed",
   "designed",
   "devised",
+  "done",
   "forged",
   "formed",
   "initiated",
