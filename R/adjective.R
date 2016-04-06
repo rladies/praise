@@ -1,5 +1,6 @@
 
 adjective <- c(
+  ":)",
   "ace",
   "adorable",
   "amazing",
@@ -34,6 +35,7 @@ adjective <- c(
   "distinctive",
   "divine",
   "doozie",
+  "dope",
   "elegant",
   "epic",
   "excellent",
@@ -101,6 +103,7 @@ adjective <- c(
   "remarkable",
   "riveting",
   "sensational",
+  "sharp",
   "shining",
   "slick",
   "smart",
@@ -120,6 +123,7 @@ adjective <- c(
   "super",
   "super-duper",
   "super-excellent",
+  "super-good",
   "superb",
   "superior",
   "supreme",
