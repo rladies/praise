@@ -20,6 +20,7 @@ adjective <- c(
   "bravissimo",
   "breathtaking",
   "brilliant",
+  "callipygian",
   "charming",
   "clever",
   "chic",
