@@ -17,5 +17,7 @@ Collate:
     'adverb.R'
     'exclamation.R'
     'verb.R'
+    'smiley.R'
     'rpackage.R'
     'package.R'
+RoxygenNote: 5.0.1.9000

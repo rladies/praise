@@ -2,7 +2,8 @@
 context("parts")
 
 test_that("all parts are lowercase (except some)", {
-  for (p in names(praise_parts)) {
+  lower <- setdiff(names(praise_parts), "smiley")
+  for (p in lower) {
     pp <- setdiff(praise_parts[[p]], "R package")
     expect_true( all(is_all_lowercase(pp)), info = p )
   }

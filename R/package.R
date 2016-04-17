@@ -26,7 +26,7 @@ NULL
 #'   \item{rpackage}{Synonyms for the term \sQuote{R package}.}
 #' }
 #' 
-#' @include adjective.R adverb.R exclamation.R rpackage.R verb.R
+#' @include adjective.R adverb.R exclamation.R rpackage.R smiley.R verb.R
 #' @export
 
 praise_parts <- list(
@@ -36,7 +36,8 @@ praise_parts <- list(
   created = created,
   creating = creating,
   exclamation = exclamation,
-  rpackage = rpackage
+  rpackage = rpackage,
+  smiley = smiley
 )
 
 
