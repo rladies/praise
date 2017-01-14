@@ -124,6 +124,7 @@ adjective <- c(
   "stupendous",
   "stylish",
   "sublime",
+  "supah",
   "super",
   "super-duper",
   "super-excellent",
