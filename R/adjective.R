@@ -138,6 +138,7 @@ adjective <- c(
   "top-notch",
   "transcendent",
   "tremendous",
+  "tubular",
   "ultimate",
   "unique",
   "unreal",
