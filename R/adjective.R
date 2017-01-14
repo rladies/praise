@@ -140,6 +140,7 @@ adjective <- c(
   "tremendous",
   "ultimate",
   "unique",
+  "unbelievable",
   "unreal",
   "well-made",
   "wicked",
