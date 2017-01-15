@@ -108,6 +108,7 @@ adjective <- c(
   "remarkable",
   "riveting",
   "rockandroll",
+  "rockin",
   "sensational",
   "sharp",
   "shining",
