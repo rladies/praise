@@ -17,7 +17,8 @@ created <- c(
   "organized",
   "planned",
   "prepared",
-  "set up"
+  "set up",
+  "thrown together"
 )
 
 creating <- c(
