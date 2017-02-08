@@ -4,6 +4,8 @@
 \name{praise}
 \alias{praise}
 \alias{praise-package}
+\alias{praise-package}
+\alias{praise}
 \title{Praise Users}
 \usage{
 praise(template = "You are ${adjective}!")
@@ -31,4 +33,3 @@ praise("${Exclamation}! This ${rpackage} is ${adjective}!")
 ## All upper case
 praise("${EXCLAMATION}! You have done this ${adverb_manner}!")
 }
-
