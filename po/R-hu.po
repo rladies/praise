@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: praise 1.0.0.9000\n"
+"Report-Msgid-Bugs-To: https://github.com/gaborcsardi/praise/issues\n"
+"POT-Creation-Date: 2017-02-08 15:24\n"
+"PO-Revision-Date: 2017-02-08 11:39\n"
+"Last-Translator: Gabor Csardi <translator@example.com\n"
+"Language-Team:  \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "praiselanguage"
+msgstr "hu"
+
+msgid "You rock!"
+msgstr "Király vagy!"
+
+msgid "You are a coding rockstar!"
+msgstr "Szupersztár vagy!"
+
+msgid "Keep up the good work."
+msgstr "Szép munka, csak így tovább!"
+
+msgid "Woot!"
+msgstr "Juhúúúú!"
+
+msgid "Way to go!"
+msgstr "Így kell ezt csinálni!"
+
+msgid "Nice code."
+msgstr "Szép kód."
+
+msgid "Your tests are ${adjective}!"
+msgstr "${Melleknev} tesztek!"
+
+msgid "${EXCLAMATION} - ${adjective} code."
+msgstr "${FELKIALTAS} - ${melleknev} kód."
+
+msgctxt ""
+msgid "foo %d"
+msgid_plural "bar %d"
+msgstr[0] ""
+msgstr[1] ""
