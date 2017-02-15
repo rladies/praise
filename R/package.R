@@ -10,6 +10,16 @@
 
 NULL
 
+load_language <- function(lang) {
+  lang_file <- system.file(
+    package = .packageName,
+    "languages",
+    paste0(lang, ".R")
+  )
+  env <- new.env()
+  source(lang_file, local = env)
+  as.list(env)
+}
 
 #' Parts of speech for praising
 #'
@@ -26,19 +36,9 @@ NULL
 #'   \item{rpackage}{Synonyms for the term \sQuote{R package}.}
 #' }
 #'
-#' @include common.R english.R
 #' @export
 
-praise_parts <- list(
-  adjective = adjective,
-  adverb = adverb,
-  adverb_manner = adverb_manner,
-  created = created,
-  creating = creating,
-  exclamation = exclamation,
-  rpackage = rpackage,
-  smiley = smiley
-)
+praise_parts <- load_language("english")
 
 #' Parts of speech for praising, in all supported languages.
 #'
@@ -63,13 +63,7 @@ praise_parts <- list(
 
 praise_parts_langs <- list(
   en = praise_parts,
-  hu = list(
-    melleknev = hu_melleknev,
-    hatarozoszo = hu_hatarozoszo,
-    felkialtas = hu_felkialtas,
-    rcsomag = hu_rcsomag,
-    smiley = smiley
-  )
+  hu = load_language("hungarian")
 )
 
 

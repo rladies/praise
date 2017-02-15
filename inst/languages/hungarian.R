@@ -1,5 +1,5 @@
 
-hu_melleknev <- c(
+melleknev <- c(
   "aranyos",
   "ász",
   "átgondolt",
@@ -29,7 +29,7 @@ hu_melleknev <- c(
   "tökéletes"
 )
 
-hu_hatarozoszo <- c(
+hatarozoszo <- c(
   "átgondoltan",
   "gondosan",
   "gyorsan",
@@ -42,7 +42,7 @@ hu_hatarozoszo <- c(
   "tökéletesen"
 )
 
-hu_felkialtas <- c(
+felkialtas <- c(
   "ah",
   "ahh",
   "ahhh",
@@ -54,7 +54,7 @@ hu_felkialtas <- c(
   "ohó"
 )
 
-hu_rcsomag <- c(
+rcsomag <- c(
   "kód",
   "csomag",
   "program",

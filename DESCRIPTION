@@ -15,8 +15,6 @@ Suggests:
     withr
 Collate: 
     'common.R'
-    'english.R'
-    'hungarian.R'
     'package.R'
     'translate.R'
     'translations.R'
