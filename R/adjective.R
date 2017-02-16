@@ -83,6 +83,7 @@ adjective <- c(
   "mathematical",
   "metal",
   "mind-blowing",
+  "monumental",
   "nice",
   "neat",
   "nice",
