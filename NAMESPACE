@@ -3,3 +3,4 @@
 export(praise)
 export(praise_parts)
 export(praise_parts_langs)
+importFrom(yaml,yaml.load_file)

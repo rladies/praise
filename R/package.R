@@ -10,15 +10,27 @@
 
 NULL
 
+is_reference <- function(x) {
+  is.character(x) && length(x) == 1 && !is.na(x) && grepl("^@", x)
+}
+
+#' @importFrom yaml yaml.load_file
+
 load_language <- function(lang) {
   lang_file <- system.file(
     package = .packageName,
     "languages",
     paste0(lang, ".R")
   )
-  env <- new.env()
-  source(lang_file, local = env)
-  as.list(env)
+  lang <- yaml.load_file(lang_file)
+  sapply(lang, simplify = FALSE, function(x) {
+    if (is_reference(x)) {
+      key <- sub("^@", "", x)
+      lang[[key]]
+    } else {
+      x
+    }
+  })
 }
 
 #' Parts of speech for praising

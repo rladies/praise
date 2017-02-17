@@ -10,6 +10,8 @@ License: MIT + file LICENSE
 LazyData: true
 URL: https://github.com/gaborcsardi/praise
 BugReports: https://github.com/gaborcsardi/praise/issues
+Imports:
+    yaml
 Suggests:
     testthat,
     withr
