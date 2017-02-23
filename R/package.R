@@ -20,7 +20,7 @@ load_language <- function(lang) {
   lang_file <- system.file(
     package = .packageName,
     "languages",
-    paste0(lang, ".R")
+    paste0(lang, ".yaml")
   )
   lang <- yaml.load_file(lang_file)
   sapply(lang, simplify = FALSE, function(x) {
