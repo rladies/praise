@@ -54,6 +54,13 @@ Currently supported parts of speech:
 names(praise_parts)
 ```
 
+## International praise
+
+Starting from version 2, `praise` supports praising in multiple languages. See the [inst/international.md](inst/international.md) file for more about this. Currently `praise` supports the following languages:
+
+* English
+* Hungarian
+
 ## License
 
 MIT © [Gabor Csardi](https://github.com/gaborcsardi), [Sindre Sorhus](http://sindresorhus.com)

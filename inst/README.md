@@ -31,7 +31,7 @@ praise()
 ```
 
 ```
-#> [1] "You are super-excellent!"
+#> [1] "You are grand!"
 ```
 
 You can supply a template, and `praise()` fills in random words of the specified
@@ -43,7 +43,7 @@ praise("${EXCLAMATION}! You have done this ${adverb_manner}!")
 ```
 
 ```
-#> [1] "AYE! You have done this enormously!"
+#> [1] "OH! You have done this bravely!"
 ```
 
 Note that capitalization in the inserted words will be the same as in the template:
@@ -54,7 +54,7 @@ praise("${Exclamation}! ${EXCLAMATION}!-${EXCLAMATION}! This is just ${adjective
 ```
 
 ```
-#> [1] "Yowza! MMHM!-YAHOO! This is just praiseworthy!"
+#> [1] "Ole! AHHH!-GEE! This is just stylish!"
 ```
 
 Currently supported parts of speech:
@@ -65,9 +65,16 @@ names(praise_parts)
 ```
 
 ```
-#> [1] "adjective"     "adverb"        "adverb_manner" "created"      
-#> [5] "creating"      "exclamation"   "rpackage"
+#> [1] "adjective"     "adverb_manner" "adverb"        "exclamation"  
+#> [5] "rpackage"      "created"       "creating"
 ```
+
+## International praise
+
+Starting from version 2, `praise` supports praising in multiple languages. See the [inst/international.md](inst/international.md) file for more about this. Currently `praise` supports the following languages:
+
+* English
+* Hungarian
 
 ## License
 
