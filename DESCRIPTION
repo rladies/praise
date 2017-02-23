@@ -11,10 +11,10 @@ LazyData: true
 URL: https://github.com/gaborcsardi/praise
 BugReports: https://github.com/gaborcsardi/praise/issues
 Imports:
+    withr,
     yaml
 Suggests:
-    testthat,
-    withr
+    testthat
 Collate: 
     'common.R'
     'package.R'

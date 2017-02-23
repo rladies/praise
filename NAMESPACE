@@ -3,4 +3,5 @@
 export(praise)
 export(praise_parts)
 export(praise_parts_langs)
+importFrom(withr,with_envvar)
 importFrom(yaml,yaml.load_file)

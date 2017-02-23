@@ -1,5 +1,17 @@
 
+#' @importFrom withr with_envvar
+
 translate <- function(template) {
+
+  lang <- getOption("praise_language", "")
+  if (lang != "") {
+    with_envvar(c(LANGUAGE = lang), translate2(template))
+  } else {
+    translate2(template)
+  }
+}
+
+translate2 <- function(template) {
 
   ## Call gettext() on the template, in case the calling package
   ## has translations for the current locale.
