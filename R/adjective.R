@@ -89,7 +89,6 @@ adjective <- c(
   "outstanding",
   "particular",
   "peachy",
-  "peculiar",
   "perfect",
   "phenomenal",
   "pioneering",
