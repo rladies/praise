@@ -66,7 +66,7 @@ names(praise_parts)
 
 ```
 #> [1] "adjective"     "adverb"        "adverb_manner" "created"      
-#> [5] "creating"      "exclamation"   "rpackage"
+#> [5] "creating"      "exclamation"   "rpackage"   "smiley"
 ```
 
 ## License
