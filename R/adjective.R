@@ -60,6 +60,7 @@ adjective <- c(
   "gorgeous",
   "grand",
   "great",
+  "GREAT!",
   "groovy",
   "groundbreaking",
   "hip",
