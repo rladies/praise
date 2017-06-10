@@ -113,6 +113,7 @@ adjective <- c(
   "slick",
   "smart",
   "smashing",
+  "snazzy",
   "solid",
   "special",
   "spectacular",
