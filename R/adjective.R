@@ -104,6 +104,7 @@ adjective <- c(
   "rad",
   "radical",
   "remarkable",
+  "righteous",
   "riveting",
   "rockandroll",
   "rockin",
