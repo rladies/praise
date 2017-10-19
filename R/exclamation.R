@@ -14,6 +14,7 @@ exclamation <- c(
   "gee",
   "ha",
   "hah",
+  "heckyea",
   "hiphiphooray",
   "hmm",
   "ho-ho",
