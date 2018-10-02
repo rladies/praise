@@ -33,6 +33,7 @@ exclamation <- c(
   "oh",
   "ole",
   "ooh",
+  "shazam",
   "uh-hu",
   "wee",
   "whee",
