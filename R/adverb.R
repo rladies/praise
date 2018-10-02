@@ -45,6 +45,7 @@ adverb_manner <- c(
   "patiently",
   "perfectly",
   "politely",
+  "posthaste",
   "powerfully",
   "quickly",
   "quietly",
