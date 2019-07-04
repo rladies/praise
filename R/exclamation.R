@@ -40,6 +40,7 @@ exclamation <- c(
   "yahoo",
   "yay",
   "yeah",
+  "yeahyah",
   "yee-haw",
   "yikes",
   "yippie",
