@@ -14,7 +14,7 @@ NULL
 #' Parts of speech for praising
 #'
 #' @format
-#' Named list of character vertors. List entries: \describe{
+#' Named list of character vectors. List entries: \describe{
 #'   \item{adjective}{Words and phrases to be used as positive adjectives.
 #'     Most of them are from \url{https://github.com/sindresorhus/superb}.}
 #'   \item{adverb}{Adverbs.}
