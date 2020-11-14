@@ -8,8 +8,8 @@ Description: Build friendly R packages that
     good, or they just need it to feel better.
 License: MIT + file LICENSE
 LazyData: true
-URL: https://github.com/gaborcsardi/praise
-BugReports: https://github.com/gaborcsardi/praise/issues
+URL: https://github.com/rladies/praise
+BugReports: https://github.com/rladies/praise/issues
 Suggests:
     testthat
 Collate:
