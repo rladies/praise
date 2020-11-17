@@ -1,4 +1,3 @@
-
 adjective <- c(
   "ace",
   "adorable",
@@ -51,7 +50,7 @@ adjective <- c(
   "first-class",
   "first-rate",
   "flawless",
-  "formidable"
+  "formidable",
   "funkadelic",
   "geometric",
   "glorious",
