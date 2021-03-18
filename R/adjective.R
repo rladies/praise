@@ -16,6 +16,7 @@ adjective <- c(
   "brightest",
   "brilliant",
   "charming",
+  "chévere",
   "clever",
   "chic",
   "classy",
