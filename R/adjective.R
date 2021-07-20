@@ -1,6 +1,7 @@
 adjective <- c(
   "ace",
   "adorable",
+  "ambitious",
   "amazing",
   "astonishing",
   "astounding",
