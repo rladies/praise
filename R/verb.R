@@ -37,6 +37,6 @@ creating <- c(
   "making",
   "organizing",
   "planning",
-  "preparin",
+  "preparing",
   "setting up"
 )
