@@ -19,7 +19,8 @@ done something good, or they just need it to feel better.
 
 
 ```r
-devtools::install_github("gaborcsardi/praise")
+# install.packages("remotes")
+remotes::install_github("rladies/praise")
 ```
 
 ## Usage
