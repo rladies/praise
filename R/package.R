@@ -19,7 +19,7 @@ NULL
 #'     Most of them are from \url{https://github.com/sindresorhus/superb}.}
 #'   \item{adverb}{Adverbs.}
 #'   \item{adverb_manner}{Adverbs of manner, with positive meanings.}
-#'   \item{created}{Synonyms of \sQuote{create} in paste tense.}
+#'   \item{created}{Synonyms of \sQuote{create} in past tense.}
 #'   \item{creating}{Synonyms of \sQuote{create}, in present participle
 #'     form.}
 #'   \item{exclamation}{Positive exclamations.}
