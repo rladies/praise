@@ -1,4 +1,5 @@
 adjective <- c(
+  "Mr Sexy Pants",
   "ace",
   "adorable",
   "amazing",
