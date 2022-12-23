@@ -1,5 +1,7 @@
 
 adverb_manner <- c(
+  "aptly",
+  "amazingly",
   "beautifully",
   "bellissimo",
   "bigly",
@@ -21,6 +23,7 @@ adverb_manner <- c(
   "elegantly",
   "enormously",
   "enthusiastically",
+  "excellently",
   "faithfully",
   "fast",
   "fondly",
@@ -42,6 +45,7 @@ adverb_manner <- c(
   "patiently",
   "perfectly",
   "politely",
+  "posthaste",
   "powerfully",
   "quickly",
   "quietly",
