@@ -52,6 +52,7 @@ adverb_manner <- c(
   "rightfully",
   "seriously",
   "sharply",
+  "skillfully",
   "smoothly",
   "speedily",
   "successfully",
