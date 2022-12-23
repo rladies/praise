@@ -35,6 +35,7 @@ exclamation <- c(
   "wee",
   "whee",
   "whoa",
+  "woohoo",
   "wow",
   "wowie",
   "yahoo",
