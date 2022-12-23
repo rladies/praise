@@ -156,5 +156,6 @@ adjective <- c(
   "wise",
   "wonderful",
   "wondrous",
-  "world-class"
+  "world-class",
+  "megalomanic"
 )
