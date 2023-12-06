@@ -144,6 +144,7 @@ adjective <- c(
   "terrific",
   "tiptop",
   "top-notch",
+  "top-shelf",
   "transcendent",
   "tremendous",
   "tubular",
