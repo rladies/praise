@@ -37,6 +37,7 @@ adverb_manner <- c(
   "joyously",
   "justly",
   "kindly",
+  "luminous"
   "neatly",
   "openly",
   "patiently",
