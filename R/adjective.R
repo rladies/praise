@@ -5,6 +5,7 @@ adjective <- c(
   "astonishing",
   "astounding",
   "awe-inspiring",
+  "aaahwesome",
   "awesome",
   "baboosh",
   "badass",
