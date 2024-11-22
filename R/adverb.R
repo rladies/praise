@@ -62,7 +62,8 @@ adverb_manner <- c(
   "trustfully",
   "warmly",
   "well",
-  "wisely"
+  "wisely",
+  "wonderfully"
 )
 
 adverb <- adverb_manner
