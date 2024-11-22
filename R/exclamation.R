@@ -10,6 +10,7 @@ exclamation <- c(
   "amazeballs",
   "aye",
   "booyeah",
+  "brilliant",
   "cowabunga",
   "gee",
   "ha",
