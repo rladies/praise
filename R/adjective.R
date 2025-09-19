@@ -39,7 +39,7 @@ adjective <- c(
   "exclusive",
   "exceptional",
   "exciting",
-  "exhilarating"
+  "exhilarating",
   "exquisite",
   "extraordinary",
   "fabulous",
