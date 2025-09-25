@@ -11,6 +11,8 @@ exclamation <- c(
   "aye",
   "booyeah",
   "cowabunga",
+  "fichtre",
+  "flute",
   "gee",
   "ha",
   "hah",
@@ -24,6 +26,7 @@ exclamation <- c(
   "hurray",
   "huzzah",
   "mhm",
+  "mince",
   "mm",
   "mmh",
   "mmhm",
@@ -31,6 +34,8 @@ exclamation <- c(
   "oh",
   "ole",
   "ooh",
+  "palsambleu",
+  "sapristi",
   "uh-hu",
   "wee",
   "whee",
@@ -45,5 +50,6 @@ exclamation <- c(
   "yikes",
   "yippie",
   "yow",
-  "yowza"
+  "yowza",
+  "zut"
 )
