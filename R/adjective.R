@@ -53,7 +53,7 @@ adjective <- c(
   "first-class",
   "first-rate",
   "flawless",
-  "formidable",
+  "formidabel",
   "funkadelic",
   "geometric",
   "glorious",
