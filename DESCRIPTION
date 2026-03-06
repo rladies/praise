@@ -21,3 +21,4 @@ Collate:
     'rpackage.R'
     'package.R'
 RoxygenNote: 5.0.1.9000
+Config/Needs/website: rladies/rladiesdocs
